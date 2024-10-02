@@ -27,6 +27,7 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" />
     </a>
 </p>
+
 <hr>
 
 <div align="center">
@@ -36,6 +37,8 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=maitsamkadzim&label=Visitors&color=0097E6&style=for-the-badge" alt="maitsamkadzim" />
 </p>
+
+<hr>
 
 ### Programming Language
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -73,6 +76,7 @@
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Mediapipe](https://img.shields.io/badge/Mediapipe-4285F4?style=for-the-badge&logo=mediapipe&logoColor=white)
 
+<hr>
 
 <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuroiidev&show_icons=true&locale=en" alt="kuroiidev" />
