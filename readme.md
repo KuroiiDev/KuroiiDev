@@ -27,6 +27,7 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" />
     </a>
 </p>
+<hr>
 
 <div align="center">
   <img src="https://count.getloli.com/get/@kuroi.dev?theme=gelbooru" alt="LoliCount"/>
