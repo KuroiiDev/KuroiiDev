@@ -31,7 +31,7 @@
 <hr>
 
 <div align="center">
-  <img src="https://count.getloli.com/get/@kuroi.dev?theme=gelbooru" alt="LoliCount"/>
+  <img src="https://count.getloli.com/get/@kuroi.dev?theme=rule34" alt="LoliCount"/>
 </div>
 
 <p align="left">
