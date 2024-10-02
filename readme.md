@@ -60,7 +60,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FF0000?style=for-the-badge&logo=firebase&logoColor=white)
 
 ### Frameworks, Platforms and Libraries
-
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TAILWIND](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -78,12 +77,11 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuroiidev&show_icons=true&locale=en" alt="kuroiidev" />
 </p>
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuroiidev&theme=default" alt="kuroiidev" />
-</p>
-<p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuroiidev&show_icons=true&locale=en&layout=compact" alt="kuroiidev" />
 </p>
-
+<p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuroiidev&theme=default" alt="kuroiidev" />
+</p>
 <p align="left"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=kuroiidev&margin-w=15&margin-h=15" alt="kuroiidev" />
