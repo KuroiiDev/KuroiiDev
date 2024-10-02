@@ -57,6 +57,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Google Chrome](https://img.shields.io/badge/Google_chrome-FFA07A?style=for-the-badge&logo=Google-chrome&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Collab](https://img.shields.io/badge/Collab-4285F4?style=for-the-badge&logo=google-colab&logoColor=white)
+![Notepad](https://img.shields.io/badge/Notepad-007ACC?style=for-the-badge&logo=notepad++&logoColor=white)
 
 ### Database
 
