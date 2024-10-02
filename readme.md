@@ -36,6 +36,14 @@
   <img src="https://komarev.com/ghpvc/?username=maitsamkadzim&label=Visitors&color=0097E6&style=for-the-badge" alt="maitsamkadzim" />
 </p>
 
+### Programming Language
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 ### Development Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -45,14 +53,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Google Chrome](https://img.shields.io/badge/Google_chrome-FFA07A?style=for-the-badge&logo=Google-chrome&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-### Programming Language
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Database
 
@@ -73,11 +73,20 @@
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Mediapipe](https://img.shields.io/badge/Mediapipe-4285F4?style=for-the-badge&logo=mediapipe&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuroiidev&show_icons=true&locale=en&layout=compact" alt="kuroiidev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuroiidev&show_icons=true&locale=en" alt="kuroiidev" /></p>
+<p>&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuroiidev&show_icons=true&locale=en" alt="kuroiidev" />
+</p>
+<p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuroiidev&theme=default" alt="kuroiidev" />
+</p>
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuroiidev&show_icons=true&locale=en&layout=compact" alt="kuroiidev" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuroiidev&theme=default" alt="kuroiidev" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kuroiidev&margin-w=15&margin-h=15" alt="kuroiidev" /></a> </p>
+<p align="left"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=kuroiidev&margin-w=15&margin-h=15" alt="kuroiidev" />
+    </a> 
+</p>
 
