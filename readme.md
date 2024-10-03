@@ -1,6 +1,6 @@
-<h1 align="center>
+<h1 align="center">
     <a href="https://github.com/kuroiidev">
-        <img src="https://readme-typing-svg.demolab.com?font=Signika&size=36&pause=1000&color=C38FFF&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Maitsam+Kadzim!+%F0%9F%94%A5" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Signika&size=36&pause=500&color=C38FFF&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Maitsam+Kadzim!+%F0%9F%94%A5" alt="Typing SVG" />
     </a>
 </h1>
 
