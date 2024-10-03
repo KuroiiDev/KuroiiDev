@@ -75,7 +75,8 @@
 
 <hr>
 
-# 🥇 My Achievements
+# 📈 Github Stats
+
 <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuroiidev&show_icons=true&locale=en&theme=tokyonight&no-frame=false" alt="kuroiidev" />
 </p>
@@ -85,6 +86,9 @@
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuroiidev&theme=tokyonight&no-frame=false" alt="kuroiidev" />
 </p>
+
+## 🥇 Achievements
+
 <p align="left"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=kuroiidev&margin-w=15&margin-h=15&theme=tokyonight&no-frame=false" alt="kuroiidev" />
