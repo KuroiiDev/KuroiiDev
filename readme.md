@@ -88,9 +88,8 @@
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuroiidev&theme=tokyonight&no-frame=false" alt="Streaks" />
 </p>
-
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuroiidev&show_icons=true&locale=en&layout=compact&theme=tokyonight&no-frame=false" alt="Streak" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuroiidev&show_icons=true&locale=en&layout=compact&theme=tokyonight&no-frame=false" alt="Streak" />
 </p>
 
 ## 🥇 Achievements
