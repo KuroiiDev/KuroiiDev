@@ -4,16 +4,10 @@
     </a>
 </h1>
 
-<!-- <p align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=signika&weight=400&pause=800random=true&width=435&lines=Just+a+Developer+who+wants+to+learn+something+New" alt="Quotes"/>
-    </a>
-</p> -->
+# 🌌 About Me
 <h3 align="center">
     I'm a Computer Engineer Student In Diponegoro University Indonesia
 </h3>
-<br>
-
 - 🚀 Currently exploring the world of **Flutter** 
 - 📁 Check out my projects on my [Portfolio Web](https://maitsam-kadzim.vercel.app)
 - 📲 Want to collaborate or just say hi? Reach me at **maitsamkadzim26@gmail.com**
@@ -22,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=maitsamkadzim&label=Profile+Visitors&color=0097E6&style=flat" alt="maitsamkadzim" />
 </p>
 
-## 🤗Let's Connect!
+## 🤗 Let's Connect!
 <p align="left">
     <a href="https://instagram.com/kuroi.dev" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
@@ -40,7 +34,7 @@
 
 <hr>
 
-## 🖥️Programming Languages
+## 🖥️ Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -48,7 +42,7 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-## ⚙️Development Tools
+## ⚙️ Development Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![VISUAL STUDIO](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
@@ -60,12 +54,12 @@
 ![Collab](https://img.shields.io/badge/Collab-4285F4?style=for-the-badge&logo=google-colab&logoColor=white)
 ![Notepad](https://img.shields.io/badge/Notepad-007ACC?style=for-the-badge&logo=notepad++&logoColor=white)
 
-## 📊Database
+## 📊 Database
 
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FF0000?style=for-the-badge&logo=firebase&logoColor=white)
 
-## 📚Frameworks, Platforms and Libraries
+## 📚 Frameworks, Platforms and Libraries
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TAILWIND](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -80,7 +74,7 @@
 
 <hr>
 
-# 🥇My Achievements
+# 🥇 My Achievements
 <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuroiidev&show_icons=true&locale=en&theme=tokyonight&no-frame=false" alt="kuroiidev" />
 </p>
