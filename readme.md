@@ -12,6 +12,10 @@
 <h3 align="center">
     I'm a Computer Engineer Student In Diponegoro University Indonesia
 </h3>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=maitsamkadzim&label=Proffile+Visitors&color=0097E6&style=for-the-badge" alt="maitsamkadzim" />
+</p>
 <br>
 
 - 🚀 Currently exploring the world of **Flutter** 
@@ -33,10 +37,6 @@
 <div align="center">
   <img src="https://count.getloli.com/get/@kuroi.dev?theme=rule34" alt="LoliCount"/>
 </div>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=maitsamkadzim&label=Visitors&color=0097E6&style=for-the-badge" alt="maitsamkadzim" />
-</p>
 
 <hr>
 
