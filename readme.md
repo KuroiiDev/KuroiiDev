@@ -15,10 +15,10 @@
 <br>
 
 - 🚀 Currently exploring the world of **Flutter** 
-- 📁 Check out my latest projects on my [Portfolio Web](https://maitsam-kadzim.vercel.app)
+- 📁 Check out my projects on my [Portfolio Web](https://maitsam-kadzim.vercel.app)
 - 📲 Want to collaborate or just say hi? Reach me at **maitsamkadzim26@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
     <a href="https://instagram.com/kuroi.dev" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
