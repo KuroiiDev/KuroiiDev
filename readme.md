@@ -84,10 +84,12 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuroiidev&show_icons=true&locale=en&theme=tokyonight&no-frame=false" alt="kuroiidev" />
 </p>
 
-## Streaks
+## Languages
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuroiidev&show_icons=true&locale=en&layout=compact&theme=tokyonight&no-frame=false" alt="Streak" />
 </p>
+
+## Streaks
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuroiidev&theme=tokyonight&no-frame=false" alt="Streaks" />
 </p>
@@ -99,7 +101,7 @@
     </a> 
 </p>
 
-### 🔝 Top Contributed Repo
+## 🔝 Contributions
 <p align="left">
     <img src="https://github-contributor-stats.vercel.app/api?username=Geusan31&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contribute">
 </p>
