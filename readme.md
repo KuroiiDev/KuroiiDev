@@ -22,7 +22,7 @@
   <img src="https://komarev.com/ghpvc/?username=maitsamkadzim&label=Profile+Visitors&color=0097E6&style=for-the-badge" alt="maitsamkadzim" />
 </p>
 
-## 🫂Let's Connect!
+## 🤗Let's Connect!
 <p align="left">
     <a href="https://instagram.com/kuroi.dev" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
