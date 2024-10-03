@@ -19,7 +19,7 @@
 - 📲 Want to collaborate or just say hi? Reach me at **maitsamkadzim26@gmail.com**
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=maitsamkadzim&label=Profile+Visitors&color=0097E6&style=for-the-badge" alt="maitsamkadzim" />
+  <img src="https://komarev.com/ghpvc/?username=maitsamkadzim&label=Profile+Visitors&color=0097E6&style=flat" alt="maitsamkadzim" />
 </p>
 
 ## 🤗Let's Connect!
