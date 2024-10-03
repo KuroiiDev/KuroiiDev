@@ -77,23 +77,30 @@
 
 <hr>
 
-# 📈 Github Stats
+# 📈 Github Statistics
 
+## Stats
 <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuroiidev&show_icons=true&locale=en&theme=tokyonight&no-frame=false" alt="kuroiidev" />
 </p>
+
+## Streaks
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuroiidev&show_icons=true&locale=en&layout=compact&theme=tokyonight&no-frame=false" alt="kuroiidev" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuroiidev&show_icons=true&locale=en&layout=compact&theme=tokyonight&no-frame=false" alt="Streak" />
 </p>
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuroiidev&theme=tokyonight&no-frame=false" alt="kuroiidev" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuroiidev&theme=tokyonight&no-frame=false" alt="Streaks" />
 </p>
 
-# 🥇 Achievements
-
+## 🥇 Achievements
 <p align="left"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=kuroiidev&margin-w=15&margin-h=15&theme=tokyonight&no-frame=false" alt="kuroiidev" />
+        <img src="https://github-profile-trophy.vercel.app/?username=kuroiidev&margin-w=15&margin-h=15&theme=tokyonight&no-frame=false" alt="Achievement" />
     </a> 
+</p>
+
+### 🔝 Top Contributed Repo
+<p align="left">
+    <img src="https://github-contributor-stats.vercel.app/api?username=Geusan31&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contribute">
 </p>
 
