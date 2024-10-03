@@ -12,15 +12,15 @@
 <h3 align="center">
     I'm a Computer Engineer Student In Diponegoro University Indonesia
 </h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=maitsamkadzim&label=Proffile+Visitors&color=0097E6&style=for-the-badge" alt="maitsamkadzim" />
-</p>
 <br>
 
 - 🚀 Currently exploring the world of **Flutter** 
 - 📁 Check out my projects on my [Portfolio Web](https://maitsam-kadzim.vercel.app)
 - 📲 Want to collaborate or just say hi? Reach me at **maitsamkadzim26@gmail.com**
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=maitsamkadzim&label=Proffile+Visitors&color=0097E6&style=for-the-badge" alt="maitsamkadzim" />
+</p>
 
 ### Connect with me:
 <p align="left">
