@@ -19,10 +19,10 @@
 - 📲 Want to collaborate or just say hi? Reach me at **maitsamkadzim26@gmail.com**
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=maitsamkadzim&label=Proffile+Visitors&color=0097E6&style=for-the-badge" alt="maitsamkadzim" />
+  <img src="https://komarev.com/ghpvc/?username=maitsamkadzim&label=Profile+Visitors&color=0097E6&style=for-the-badge" alt="maitsamkadzim" />
 </p>
 
-### Connect with me:
+## 🫂Let's Connect!
 <p align="left">
     <a href="https://instagram.com/kuroi.dev" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
