@@ -84,10 +84,12 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuroiidev&show_icons=true&locale=en&theme=tokyonight&no-frame=false" alt="kuroiidev" />
 </p>
 
-## Streaks and Languages
+## Streaks
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuroiidev&theme=tokyonight&no-frame=false" alt="Streaks" />
 </p>
+
+## Languages
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuroiidev&show_icons=true&locale=en&layout=compact&theme=tokyonight&no-frame=false" alt="Streak" />
 </p>
