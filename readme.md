@@ -35,6 +35,8 @@
 
 <hr>
 
+# 🤹🏻 Skills
+
 ## 🖥️ Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -87,7 +89,7 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuroiidev&theme=tokyonight&no-frame=false" alt="kuroiidev" />
 </p>
 
-## 🥇 Achievements
+# 🥇 Achievements
 
 <p align="left"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
