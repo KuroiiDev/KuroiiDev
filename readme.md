@@ -6,10 +6,10 @@
 
 # 🌌 About Me
 <h3 align="center">
-    I'm a Computer Engineer Student In Diponegoro University Indonesia
+    I'm on second semester at Computer Engineer Student, Diponegoro University Indonesia
 </h3>
 
-- 🚀 Currently exploring the world of **Flutter** 
+- 🚀 Currently strugling in college (helpp)
 - 📁 Check out my projects on my [Portfolio Web](https://maitsam-kadzim.vercel.app)
 - 📲 Want to collaborate or just say hi? Reach me at **maitsamkadzim26@gmail.com**
 
@@ -19,7 +19,7 @@
 
 ## 🤗 Let's Connect!
 <p align="left">
-    <a href="https://instagram.com/kuroi.dev" target="blank">
+    <a href="https://www.instagram.com/aiwishiwasabiwrd/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
     </a>
     <a href="https://wa.me/6287719771512/?text=Hi%2C%20I%27m%20<name>" target="blank">
