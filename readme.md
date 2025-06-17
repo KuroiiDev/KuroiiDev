@@ -6,7 +6,7 @@
 
 # 🌌 About Me
 <h3 align="center">
-    I'm on second semester at Computer Engineer Student, Diponegoro University Indonesia
+    I'm on second semester at Computer Engineer, Diponegoro University Indonesia
 </h3>
 
 - 🚀 Currently strugling in college (helpp)
