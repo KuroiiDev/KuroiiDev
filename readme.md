@@ -25,8 +25,8 @@
 ● Sam [KuroiiDev]
 ● Full Stack Developer — backend-focused, web-first
 ● Computer Engineering @ Diponegoro University, Indonesia
-● Semester 4 — currently surviving academia
-● Portfolio  →  https://maitsam-kadzim.vercel.app
+● Semester 4 — currently surviving academic
+● Portfolio  →  https://maitsam-kadzim.my.id
 ● Email      →  maitsamkadzim26@gmail.com
 ```
 
