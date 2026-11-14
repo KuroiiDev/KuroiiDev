@@ -93,8 +93,8 @@ open_to:   [internships, collaborations, backend / full stack projects]
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kuroiidev&show_icons=true&hide_border=true&bg_color=0d0b14&title_color=a78bfa&icon_color=7c3aed&text_color=c8b8f0" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kuroiidev&layout=compact&hide_border=true&bg_color=0d0b14&title_color=a78bfa&text_color=c8b8f0" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats-extended.vercel.app/api?username=kuroiidev&show_icons=true&hide_border=true&bg_color=0d0b14&title_color=a78bfa&icon_color=7c3aed&text_color=c8b8f0" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats-extended.vercel.app/api/top-langs?username=kuroiidev&layout=compact&hide_border=true&bg_color=0d0b14&title_color=a78bfa&text_color=c8b8f0" height="165" alt="Top languages" />
 </p>
 
 ---
