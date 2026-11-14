@@ -76,9 +76,9 @@ open_to:   [internships, collaborations, backend / full stack projects]
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Encryptour](https://maitsam-kadzim.my.id/projects)** | Web profile and student database for the 2024 Computer Engineering batch at Diponegoro University | `Laravel` `PHP` `Tailwind CSS` `Vercel` |
+| **[Encryptour](https://github.com/Encryptour/encryptour-web)** | Web profile and student database for the 2024 Computer Engineering batch at Diponegoro University | `Laravel` `PHP` `Tailwind CSS` `Vercel` |
 | **[Berkah App](https://maitsam-kadzim.my.id/projects)** | Full stack management system for raw materials, financial tracking, and project/task management | `PHP` `JavaScript` `Ajax` `CSS` |
-| **[Geeks User](https://github.com/KuroiiDev/geeks_forUser)** | Mobile book borrowing app, built as a vocational school final project | `Flutter` `Dart` |
+| **[Geeks User](https://github.com/KuroiiDev/smk5-geeks-user-app.git)** | Mobile book borrowing app, built as a vocational school final project | `Flutter` `Dart` |
 
 ```bash
 ~/KuroiiDev $ open https://maitsam-kadzim.my.id/projects
