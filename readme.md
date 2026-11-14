@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://maitsam-kadzim.my.id">
-    <img src="./assets/terminal.svg" alt="Sam (KuroiiDev), Full Stack Developer, Computer Engineering at Diponegoro University" width="760" />
+    <img src="./terminal.svg" alt="Sam (KuroiiDev), Full Stack Developer, Computer Engineering at Diponegoro University" width="760" />
   </a>
 </p>
 
