@@ -1,129 +1,119 @@
-<h1 align="center">
-  <a href="https://github.com/kuroiidev">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=800&color=A78BFA&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Sam+%F0%9F%94%A5;Full+Stack+Developer;Computer+Engineer+%40+Undip;Building+things+that+work." alt="Typing SVG" />
+<p align="center">
+  <a href="https://maitsam-kadzim.my.id">
+    <img src="./assets/terminal.svg" alt="Sam (KuroiiDev), Full Stack Developer, Computer Engineering at Diponegoro University" width="760" />
   </a>
-</h1>
-
----
-
-<p align="center">
-  <img src="https://count.getloli.com/get/@kuroi.dev?theme=rule34" alt="visitor counter" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kuroiidev&label=Profile+Visitors&color=7c3aed&style=flat-square" alt="visitors" />
-  <img src="https://img.shields.io/badge/Focus-Web%20Dev-7c3aed?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Semester-4-5b21b6?style=flat-square&logo=school&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Surviving%20College-4c1d95?style=flat-square" />
+  <a href="https://maitsam-kadzim.my.id"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/maitsam-kadzim-12ba50301/"><img src="https://img.shields.io/badge/LinkedIn-5b21b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:maitsamkadzim26@gmail.com"><img src="https://img.shields.io/badge/Email-4c1d95?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kuroiidev&label=Profile+views&color=7c3aed&style=flat-square" alt="Profile views" />
 </p>
 
 ---
+
+## `~/about`
 
 ```bash
-~/KuroiiDev $ sudo whoami --verbose
+~/KuroiiDev $ cat about.md
+```
 
-● Sam [KuroiiDev]
-● Full Stack Developer — backend-focused, web-first
-● Computer Engineering @ Diponegoro University, Indonesia
-● Semester 4 — currently surviving academic
-● Portfolio  →  https://maitsam-kadzim.my.id
-● Email      →  maitsamkadzim26@gmail.com
+I'm Sam, a backend-focused full stack developer who builds clean, performant web apps and APIs. I study Computer Engineering at Diponegoro University and enjoy Laravel, mobile with Flutter, and network security on the side.
+
+```yaml
+role:      Full Stack Developer (backend-focused, web-first)
+studying:  Computer Engineering @ Diponegoro University
+strengths: [Laravel, REST APIs, Flutter, MySQL]
+exploring: [Next.js, Docker, network security]
+open_to:   [internships, collaborations, backend / full stack projects]
 ```
 
 ---
 
-## 🖥️ Skills
+## `~/stack`
 
 ```bash
 ~/KuroiiDev $ skills --list
 ```
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-7c3aed?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-5b21b6?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-4c1d95?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+**Backend**  
+![PHP](https://img.shields.io/badge/PHP-7c3aed?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-5b21b6?style=flat-square&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-4c1d95?style=flat-square&logo=fastapi&logoColor=white)
 
-### Frameworks & Libraries
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-7c3aed?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-5b21b6?style=for-the-badge&logo=flutter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+**Frontend**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-7c3aed?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-7c3aed?style=for-the-badge&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4c1d95?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FF0000?style=for-the-badge&logo=firebase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+**Mobile**  
+![Flutter](https://img.shields.io/badge/Flutter-5b21b6?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-4c1d95?style=flat-square&logo=dart&logoColor=white)
 
----
-
-## 📈 GitHub Stats
-
-```bash
-~/KuroiiDev $ github-stats --user=kuroiidev --theme=tokyonight
-```
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kuroiidev&show_icons=true&theme=tokyonight&no-frame=false&hide_border=false&bg_color=0d0b14&title_color=a78bfa&icon_color=7c3aed&text_color=c8b8f0&border_color=3d2a6e" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kuroiidev&layout=compact&theme=tokyonight&no-frame=false&bg_color=0d0b14&title_color=a78bfa&text_color=c8b8f0&border_color=3d2a6e" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuroiidev&theme=tokyonight&no-frame=false&background=0d0b14&ring=a78bfa&fire=7c3aed&currStreakLabel=c8b8f0&sideLabels=8b6fbb&border=3d2a6e" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kuroiidev&theme=tokyonight&no-frame=false&margin-w=12&margin-h=12&column=7" />
-  </a>
-</p>
+**Database & Tools**  
+![MySQL](https://img.shields.io/badge/MySQL-4c1d95?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FF0000?style=flat-square&logo=firebase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-7c3aed?style=flat-square&logo=linux&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## `~/projects`
 
 ```bash
-~/KuroiiDev $ ls ./projects --sort=pinned --details
+~/KuroiiDev $ ls -l ./projects --sort=pinned
 ```
 
-| Project | Description | Stack |
+| Project | What it does | Stack |
 |---|---|---|
-| **[Encryptour](https://github.com/kuroiidev)** | Web profile & student database for CE batch 2024 @ Undip | `Laravel` `PHP` `Tailwind` `Vercel` |
-| **[Berkah App](https://github.com/kuroiidev)** | Full stack web management — materials, finance & task tracking | `PHP` `JavaScript` `Ajax` `CSS` |
-| **[Geeks User](https://github.com/KuroiiDev/geeks_forUser)** | Mobile book borrowing system — vocational school final project | `Flutter` `Dart` |
+| **[Encryptour](https://maitsam-kadzim.my.id/projects)** | Web profile and student database for the 2024 Computer Engineering batch at Diponegoro University | `Laravel` `PHP` `Tailwind CSS` `Vercel` |
+| **[Berkah App](https://maitsam-kadzim.my.id/projects)** | Full stack management system for raw materials, financial tracking, and project/task management | `PHP` `JavaScript` `Ajax` `CSS` |
+| **[Geeks User](https://github.com/KuroiiDev/geeks_forUser)** | Mobile book borrowing app, built as a vocational school final project | `Flutter` `Dart` |
 
-> 📁 More projects → **[maitsam-kadzim.vercel.app/projects](https://maitsam-kadzim.vercel.app/projects)**
+```bash
+~/KuroiiDev $ open https://maitsam-kadzim.my.id/projects
+```
 
 ---
 
-## 🤝 Let's Connect
+## `~/stats`
 
 ```bash
-~/KuroiiDev $ open --social-links
+~/KuroiiDev $ github-stats --user=kuroiidev
 ```
 
-<p align="left">
-  <a href="https://www.instagram.com/aiwishiwasabiwrd/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-7c3aed?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://wa.me/6287719771512/?text=Hi%2C%20I%27m%20<name>" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-5b21b6?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://maitsam-kadzim.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4c1d95?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/maitsam-kadzim-12ba50301/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kuroiidev&show_icons=true&hide_border=true&bg_color=0d0b14&title_color=a78bfa&icon_color=7c3aed&text_color=c8b8f0" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kuroiidev&layout=compact&hide_border=true&bg_color=0d0b14&title_color=a78bfa&text_color=c8b8f0" height="165" alt="Top languages" />
 </p>
 
+---
+
+## `~/contact`
+
+```bash
+~/KuroiiDev $ open --contact
+```
+
+- Portfolio: [maitsam-kadzim.my.id](https://maitsam-kadzim.my.id)
+- LinkedIn: [maitsam-kadzim](https://www.linkedin.com/in/maitsam-kadzim-12ba50301/)
+- Email: [maitsamkadzim26@gmail.com](mailto:maitsamkadzim26@gmail.com)
+
+```bash
+~/KuroiiDev $ echo "Thanks for stopping by!"
+Thanks for stopping by!
+```
+
 <p align="center">
-  <sub>crafted with ♥ by KuroiiDev · 2026</sub>
+  <sub>Crafted with ♥ by KuroiiDev · 2026</sub>
 </p>
